@@ -3,7 +3,10 @@
 
 FullStack Inventory by Rappid Technologies is an ideal solution for businesses seeking a straightforward yet powerful tool to manage their inventory. Designed with user-friendliness in mind, this system offers seamless integration across both Android and desktop platforms, ensuring that staff and administrators can easily navigate and utilize its features. The simplicity of FullStack Inventory does not compromise its capabilities; instead, it provides a robust and efficient way to keep track of stock levels, monitor sales, and generate comprehensive reports. Its intuitive interface minimizes the learning curve, allowing businesses to quickly adapt and start managing their inventory without the need for extensive training or technical expertise.
 
+<div style="text-align:center">
 ![img-1](https://github.com/AppSync-ai/FullStack-Inventory/assets/81430894/5073cd86-b50f-4ea1-b95b-ccbab556b575)
+</div>
+
 
 What sets FullStack Inventory apart is its commitment to providing unlimited access to all its features without any hidden costs. This transparency in pricing ensures that businesses of all sizes can benefit from its extensive functionalities, from small startups to larger enterprises. The system's reliability and efficiency help prevent stockouts and overstock situations, enhancing overall operational efficiency. By streamlining inventory management processes, FullStack Inventory enables businesses to focus more on growth and customer satisfaction rather than getting bogged down by administrative tasks. Ultimately, FullStack Inventory is a comprehensive solution that empowers businesses to maintain optimal inventory levels and improve their bottom line.
 
